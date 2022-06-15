@@ -1,4 +1,4 @@
-app_id : your_app_id_here
-app_key : your_key_here
+app_id : 1119322
+app_key : 2c7f021ad3eaecc518c316fee2067f78791c2b8a1011443fb7fb55accadeea7e
 device : /dev/ttyUSB0
 baudrate : 230400
